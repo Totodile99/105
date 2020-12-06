@@ -1,0 +1,20 @@
+body
+{
+    color: white;
+    background: steelblue;
+}
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+#camera
+{
+    border: 5px red;
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects, #results_object_name, #results_object_acuraccy
+{
+    color: indigo;
+}
